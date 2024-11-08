@@ -1,3 +1,14 @@
+-- Encryption for password
+BEGIN
+CREATE MASTER KEY ENCRYPTION BY PASSWORD = 'password'
+CREATE CERTIFICATE Certificate WITH SUBJECT = 'Certificate';
+CREATE SYMMETRIC KEY SymKey WITH ALGORITHM = AES_256 ENCRYPTION BY CERTIFICATE Certificate;
+ALTER TABLE Users ADD encrypted_password VARBINARY(256)
+END;
+GO
+UPDATE Users SET encrypted_password = ENCRYPTBYKEY(KEY_GUID('SymKey'), CONVERT(varbinary, password));
+GO
+
 -- Add Ingredient to Shopping List from a recipe. Really helpful for planning out shopping trips
 CREATE PROCEDURE AddRecipeIngredientsToShoppingList (@user_id int, @recipe_id int)
 AS
@@ -27,7 +38,7 @@ GO
 CREATE PROCEDURE RemoveFavoriteTag(@user_id int, @tag_id int)
 AS
 BEGIN
-    DELETE fr FROM FavoriteRecipes fr JOIN RecipeTags rt ON fr.recipe_id = rt.recipe_id WHERE fr.user_id = @user_id AND rt.tag = @tag_id;
+    DELETE fr FROM FavoriteRecipes fr JOIN RecipeTags rt ON fr.recipe_id = rt.recipe_id WHERE fr.user_id = @user_id AND rt.tag_id = @tag_id;
 END;
 GO
 
@@ -88,14 +99,6 @@ BEGIN
     DECLARE @minimum DECIMAL(6, 2) = 1.0;
     INSERT INTO ShoppingList (user_id, ingredient_id, quantity) SELECT i.user_id, i.ingredient_id, 2.5 - i.quantity AS quantity FROM inserted i WHERE i.quantity < @minimum AND NOT EXISTS (SELECT 1 FROM ShoppingList sl WHERE sl.user_id = i.user_id AND sl.ingredient_id = i.ingredient_id);
 END;
-
-
--- Encryption for password
-CREATE MASTER KEY ENCRYPTION BY PASSWORD = 'password'
-CREATE CERTIFICATE Certificate WITH SUBJECT = 'Certificate';
-CREATE SYMMETRIC KEY SymKey WITH ALGORITHM = AES_256 ENCRYPTION BY CERTIFICATE Certificate;
-ALTER TABLE Users ADD encrypted_password VARBINARY(256)
-UPDATE Users SET encrypted_password = ENCRYPTBYKEY(KEY_GUID('SymKey'), CONVERT(varbinary, password));
 
 -- Index for recipe names
 CREATE NONCLUSTERED INDEX index_Recipe_Name ON Recipe(recipe_name);
