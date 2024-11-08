@@ -1,0 +1,691 @@
+ingredient_id,ingredient_name,measurement_unit,category
+1,"skinless, boneless chicken breast halves",,meat
+2,butter,fl oz,dairy
+3,condensed cream of chicken soup,oz,dairy
+4,"onion, finely diced",,produce
+5,"refrigerated biscuit dough, torn into pieces",package,other
+6,condensed cream of mushroom soup,oz,dairy
+7,dry onion soup mix,package,produce
+8,water,fl oz,beverages
+9,pot roast,pound,other
+10,packed brown sugar,fl oz,baking
+11,ketchup,fl oz,condiments
+12,lean ground beef,pound,meat
+13,milk,fl oz,dairy
+14,eggs,,other
+15,salt,fl oz,spices
+16,ground black pepper,fl oz,spices
+17,"small onion, chopped",,produce
+18,ground ginger,fl oz,other
+19,finely crushed saltine cracker crumbs,fl oz,spices
+20,"butter, softened",fl oz,dairy
+21,white sugar,fl oz,baking
+22,vanilla extract,fl oz,baking
+23,all-purpose flour,fl oz,grains
+24,baking soda,fl oz,baking
+25,hot water,fl oz,beverages
+26,semisweet chocolate chips,fl oz,other
+27,chopped walnuts,fl oz,other
+28,whole wheat rotini pasta,oz,grains
+29,fresh broccoli florets,fl oz,other
+30,"medium onion, chopped",,produce
+31,"cloves garlic, minced",,produce
+32,"butter, divided",fl oz,dairy
+33,"Cheddar cheese, shredded",oz,dairy
+34,"reduced-fat cream cheese, cubed and softened",oz,dairy
+35,fine dry Italian-seasoned bread crumbs,fl oz,grains
+36,Reynolds Wrap® Non Stick Aluminum Foil,,other
+37,brown sugar,fl oz,baking
+38,"eggs, beaten",,other
+39,mashed overripe bananas,fl oz,other
+40,For potato crust:,,other
+41,"russet potatoes, peeled and cut into chunks",,other
+42,pinch freshly grated nutmeg,,spices
+43,salt and ground black pepper to taste,,spices
+44,"pinch cayenne pepper, or to taste",,spices
+45,For the spinach:,,other
+46,olive oil,fl oz,other
+47,baby spinach leaves,oz,other
+48,For the sauce:,,condiments
+49,"cold milk, divided",fl oz,dairy
+50,lemon zest,fl oz,other
+51,For the rest:,,other
+52,boneless cod fillets,pound,other
+53,"lemon, juiced",,beverages
+54,chopped fresh chives for garnish,fl oz,other
+55,baking powder,fl oz,baking
+56,ground cinnamon,fl oz,spices
+57,vegetable oil,fl oz,other
+58,grated zucchini,fl oz,other
+59,Sauce:,,condiments
+60,chicken broth,fl oz,meat
+61,large egg,,other
+62,soy sauce,fl oz,condiments
+63,chile-garlic sauce (such as sambal oelek),fl oz,produce
+64,oyster sauce,fl oz,condiments
+65,tamarind paste,fl oz,other
+66,fish sauce,fl oz,condiments
+67,palm sugar,fl oz,baking
+68,minced shallot,fl oz,other
+69,"vegetable oil, or more as needed",fl oz,other
+70,minced fresh ginger root,fl oz,other
+71,minced serrano pepper,fl oz,spices
+72,"cooked Dungeness crabs, cleaned and cracked",,other
+73,chopped fresh cilantro,fl oz,other
+74,sliced green onion (green part only),fl oz,produce
+75,pumpkin puree,oz,other
+76,ground nutmeg,fl oz,spices
+77,ground cloves,fl oz,other
+78,"unsalted butter, melted",fl oz,dairy
+79,egg,,other
+80,egg yolk,,other
+81,cauliflower florets,pound,other
+82,mashed potato flakes,fl oz,other
+83,low-fat milk,fl oz,dairy
+84,margarine,fl oz,other
+85,shredded reduced-fat Cheddar cheese,fl oz,dairy
+86,"thickly sliced bacon, diced",pound,other
+87,"boneless lamb shoulder, cut into 2 inch pieces",pound,meat
+88,"large onion, chopped",,produce
+89,beef stock,fl oz,meat
+90,diced carrots,fl oz,produce
+91,"large onions, cut into bite-size pieces",,produce
+92,potatoes,,other
+93,dried thyme,fl oz,other
+94,bay leaves,,other
+95,white wine,fl oz,beverages
+96,fresh blueberries,fl oz,other
+97,"butter, cubed",fl oz,dairy
+98,Parmesan cheese,fl oz,dairy
+99,mayonnaise,fl oz,condiments
+100,fresh lemon juice,fl oz,beverages
+101,dried basil,fl oz,other
+102,onion powder,fl oz,produce
+103,celery salt,fl oz,produce
+104,tilapia fillets,pound,other
+105,instant vanilla pudding mix,package,baking
+106,chopped walnuts (optional),fl oz,other
+107,sweet Italian sausage,pound,other
+108,minced onion,fl oz,produce
+109,"cloves garlic, crushed",,produce
+110,crushed tomatoes,oz,produce
+111,tomato paste,oz,produce
+112,canned tomato sauce,oz,produce
+113,dried basil leaves,fl oz,other
+114,fennel seeds,fl oz,other
+115,Italian seasoning,fl oz,other
+116,chopped fresh parsley,fl oz,other
+117,lasagna noodles,,other
+118,ricotta cheese,oz,dairy
+119,"mozzarella cheese, sliced",pound,dairy
+120,grated Parmesan cheese,fl oz,dairy
+121,unsweetened cocoa powder,fl oz,other
+122,Frosting:,,other
+123,honey,fl oz,other
+124,confectioners' sugar,fl oz,baking
+125,raisins,fl oz,other
+126,caraway seeds,fl oz,other
+127,"eggs, lightly beaten",,other
+128,buttermilk,fl oz,dairy
+129,sour cream,fl oz,dairy
+130,peeled and diced potatoes,fl oz,other
+131,diced celery,fl oz,produce
+132,finely chopped onion,fl oz,produce
+133,diced cooked ham,fl oz,other
+134,chicken bouillon granules,fl oz,meat
+135,"salt, or to taste",fl oz,spices
+136,"ground white or black pepper, or to taste",fl oz,spices
+137,"skinless, boneless chicken breast halves - cubed",pound,meat
+138,sliced carrots,fl oz,produce
+139,frozen green peas,fl oz,other
+140,sliced celery,fl oz,produce
+141,chopped onion,fl oz,produce
+142,black pepper,fl oz,spices
+143,celery seed,fl oz,produce
+144,(9 inch) unbaked pie crusts,,other
+145,white vinegar,fl oz,other
+146,"butter, melted",fl oz,dairy
+147,cooking spray,,other
+148,"bananas, mashed",,other
+149,"egg, lightly beaten",,other
+150,fudge brownie mix (such as Duncan Hines®),package,other
+151,Irish cream liqueur (such as Baileys®),fl oz,dairy
+152,"unsalted butter, softened",fl oz,dairy
+153,recipe pastry for a 9 inch double crust pie,,other
+154,unsalted butter,fl oz,dairy
+155,"Granny Smith apples - peeled, cored and sliced",,other
+156,"potatoes, peeled and cubed",pound,other
+157,"head cabbage, chopped",,other
+158,"bunch green onions, chopped",,produce
+159,half-and-half cream,fl oz,dairy
+160,salt and black pepper to taste,,spices
+161,maple syrup,fl oz,other
+162,balsamic syrup,fl oz,other
+163,garlic powder,fl oz,produce
+164,pinches cayenne pepper,,spices
+165,pinch ground white pepper,,spices
+166,pinch ground nutmeg,,spices
+167,pinch ground dried chipotle pepper,,spices
+168,"frozen skinless, boneless chicken breast halves",,meat
+169,bottle barbeque sauce,,condiments
+170,Italian salad dressing,fl oz,other
+171,Worcestershire sauce,fl oz,condiments
+172,slices Swiss cheese,,dairy
+173,slices ham,,other
+174,paprika,fl oz,other
+175,dry white wine,fl oz,beverages
+176,cornstarch,fl oz,other
+177,heavy whipping cream,fl oz,dairy
+178,"graham crackers, crushed",,other
+179,cream cheese,package,dairy
+180,cold water,fl oz,beverages
+181,cider vinegar,fl oz,other
+182,"clove garlic, minced",,produce
+183,skinless chicken thighs,,meat
+184,"avocados - peeled, pitted, and mashed",,other
+185,"lime, juiced",,beverages
+186,diced onion,fl oz,produce
+187,"roma (plum) tomatoes, diced",,produce
+188,minced garlic,fl oz,produce
+189,pinch ground cayenne pepper (optional),,spices
+190,ground beef chuck,pound,meat
+191,bulk Italian sausage,pound,other
+192,"chili beans, drained",oz,canned_goods
+193,chili beans in spicy sauce,oz,canned_goods
+194,diced tomatoes with juice,oz,produce
+195,"large yellow onion, chopped",,produce
+196,"stalks celery, chopped",,produce
+197,"green bell pepper, seeded and chopped",,spices
+198,"red bell pepper, seeded and chopped",,spices
+199,"green chile peppers, seeded and chopped",,spices
+200,bacon bits,fl oz,other
+201,cubes beef bouillon,,meat
+202,beer,fl oz,beverages
+203,chili powder,fl oz,other
+204,dried oregano,fl oz,spices
+205,ground cumin,fl oz,other
+206,hot pepper sauce (e.g. Tabasco™),fl oz,spices
+207,cayenne pepper,fl oz,spices
+208,bag corn chips such as Fritos®,,other
+209,shredded Cheddar cheese,package,dairy
+210,pork chops,,meat
+211,seasoning salt,fl oz,spices
+212,"egg, beaten",,other
+213,Italian-style seasoned bread crumbs,fl oz,grains
+214,"onion, chopped",,produce
+215,chili beans,oz,canned_goods
+216,black beans,oz,canned_goods
+217,"whole kernel corn, drained",oz,other
+218,tomato sauce,oz,produce
+219,or bottle beer,can,beverages
+220,"diced tomatoes with green chilies, undrained",oz,produce
+221,taco seasoning,package,other
+222,"whole skinless, boneless chicken breasts",,meat
+223,shredded Cheddar cheese (optional),package,dairy
+224,sour cream (optional),,dairy
+225,crushed tortilla chips (optional),,other
+226,cornmeal,fl oz,other
+227,dry ziti pasta,pound,grains
+228,jars spaghetti sauce,,condiments
+229,"provolone cheese, sliced",oz,dairy
+230,"mozzarella cheese, shredded",oz,dairy
+231,"medium bananas, sliced",,other
+232,"margarine, softened",fl oz,other
+233,molasses,fl oz,other
+234,shortening,fl oz,other
+235,cream of tartar,fl oz,dairy
+236,crushed red pepper flakes,fl oz,spices
+237,sea salt,fl oz,spices
+238,chopped green bell pepper,fl oz,spices
+239,prepared yellow mustard,fl oz,condiments
+240,salt to taste,,spices
+241,ground black pepper to taste,,spices
+242,warm milk (110 degrees F/45 degrees C),fl oz,dairy
+243,"eggs, room temperature",,other
+244,"margarine, melted",fl oz,other
+245,bread flour,fl oz,grains
+246,bread machine yeast,fl oz,grains
+247,"brown sugar, packed",fl oz,baking
+248,"cream cheese, softened",package,dairy
+249,devil's food cake mix,package,other
+250,instant chocolate pudding mix,package,other
+251,warm water,fl oz,beverages
+252,grated carrots,fl oz,produce
+253,chopped pecans,fl oz,other
+254,"all-purpose apples, peeled, cored and sliced",fl oz,other
+255,quick-cooking oats,fl oz,other
+256,warm water (110 degrees F/45 degrees C),fl oz,beverages
+257,active dry yeast,fl oz,other
+258,"russet potatoes, sliced into 1/4 inch slices",,other
+259,"onion, sliced into rings",,produce
+260,salt and pepper to taste,,spices
+261,Italian-seasoned bread crumbs,fl oz,grains
+262,salmon fillets,pound,other
+263,lemon pepper to taste,,spices
+264,garlic powder to taste,,produce
+265,"chunk chicken, drained",oz,meat
+266,Ranch dressing,fl oz,other
+267,pepper sauce (such as Frank's Red Hot®),fl oz,spices
+268,"bunch celery, cleaned and cut into 4 inch pieces",,produce
+269,box chicken-flavored crackers,,meat
+270,taco seasoning mix,fl oz,other
+271,salsa,fl oz,other
+272,packed light brown sugar,fl oz,baking
+273,all-purpose flour for coating,fl oz,grains
+274,"skinless, boneless chicken breast halves - pounded 1/4 inch thick",,meat
+275,sliced mushrooms,fl oz,other
+276,Marsala wine,fl oz,beverages
+277,cooking sherry,fl oz,other
+278,"shredded, cooked chicken",pound,meat
+279,"whole peeled tomatoes, mashed",oz,produce
+280,enchilada sauce,oz,condiments
+281,chopped green chile peppers,oz,spices
+282,cumin,fl oz,other
+283,bay leaf,,other
+284,frozen corn,package,other
+285,chopped cilantro,fl oz,other
+286,corn tortillas,,other
+287,uncooked white rice,fl oz,grains
+288,"milk, divided",fl oz,dairy
+289,golden raisins,fl oz,other
+290,"very ripe bananas, mashed",,other
+291,container sour cream,,dairy
+292,"cloves garlic, chopped",,produce
+293,quinoa,fl oz,other
+294,vegetable broth,fl oz,canned_goods
+295,frozen corn kernels,fl oz,other
+296,"black beans, rinsed and drained",oz,canned_goods
+297,ground beef,pound,meat
+298,dried bread crumbs,fl oz,grains
+299,prepared mustard,fl oz,condiments
+300,"kiwis, peeled and diced",,other
+301,"Golden Delicious apples - peeled, cored and diced",,other
+302,raspberries,oz,other
+303,strawberries,pound,other
+304,"fruit preserves, any flavor",fl oz,other
+305,(10 inch) flour tortillas,,grains
+306,butter flavored cooking spray,,dairy
+307,cinnamon sugar,fl oz,spices
+308,chopped green onions,fl oz,produce
+309,diced green chiles,oz,other
+310,cubed cooked chicken breast meat,fl oz,meat
+311,"shredded Cheddar cheese, divided",fl oz,dairy
+312,(12 inch) flour tortillas,,grains
+313,(2 pound) pork tenderloin,,meat
+314,or bottle root beer,can,beverages
+315,bottle your favorite barbecue sauce,,condiments
+316,"hamburger buns, split and lightly toasted",,other
+317,sifted confectioners' sugar,fl oz,baking
+318,butter flavored shortening,fl oz,dairy
+319,rolled oats,fl oz,other
+320,garlic salt,fl oz,produce
+321,salmon,pound,other
+322,"beef stew meat, cut into 1 inch cubes",pound,meat
+323,beef broth,fl oz,meat
+324,"potatoes, diced",,other
+325,"carrots, sliced",,produce
+326,"stalk celery, chopped",,produce
+327,pinch salt,,spices
+328,thick slices bread,,grains
+329,cubed beef stew meat,pound,meat
+330,condensed golden mushroom soup,oz,canned_goods
+331,quick cooking oats,fl oz,other
+332,white pepper,fl oz,spices
+333,"onions, quartered",,produce
+334,(4 pound) whole chickens,,meat
+335,condensed French onion soup,oz,produce
+336,dry bread crumbs,fl oz,grains
+337,mustard powder,fl oz,condiments
+338,"onion, thinly sliced",,produce
+339,diced tomatoes,oz,produce
+340,balsamic vinegar,fl oz,other
+341,dried rosemary,fl oz,other
+342,"almonds, blanched and slivered",fl oz,other
+343,"spinach, rinsed and torn into bite-size pieces",pound,other
+344,dried cranberries,fl oz,other
+345,toasted sesame seeds,fl oz,other
+346,poppy seeds,fl oz,other
+347,white wine vinegar,fl oz,beverages
+348,whole fresh mushrooms,,other
+349,ground cayenne pepper,fl oz,spices
+350,ranch dressing,fl oz,other
+351,minced fresh rosemary,fl oz,other
+352,lemon juice,fl oz,beverages
+353,"ground black pepper, or to taste",fl oz,spices
+354,"white sugar, or to taste (optional)",fl oz,baking
+355,"skinless, boneless chicken breast halves - cut into 1 inch cubes",,meat
+356,dry Italian-style salad dressing mix,package,other
+357,rump roast,pound,other
+358,French rolls,,other
+359,peanut butter,fl oz,dairy
+360,"miniature chocolate covered peanut butter cups, unwrapped",,dairy
+361,canned pumpkin puree,fl oz,other
+362,melted butter,fl oz,dairy
+363,"black olives, sliced",oz,other
+364,diced green chili peppers,oz,spices
+365,diced tomatoes with green chile peppers,oz,produce
+366,jar taco sauce,,condiments
+367,refried beans,oz,canned_goods
+368,(8 inch) flour tortillas,,grains
+369,shredded Colby cheese,oz,dairy
+370,chopped fresh ginger root,fl oz,other
+371,chopped garlic,fl oz,produce
+372,hot sauce,fl oz,condiments
+373,"skinless, boneless chicken breast halves - cut into 1/2 inch strips",,meat
+374,cream cheese with chives,oz,dairy
+375,angel hair pasta,pound,grains
+376,"chopped green chilies, drained",oz,other
+377,"canned diced jalapeno peppers, drained",oz,spices
+378,cocoa powder,fl oz,other
+379,bow tie pasta,package,grains
+380,"sweet Italian sausage, casings removed and crumbled",pound,other
+381,red pepper flakes,fl oz,spices
+382,"Italian-style plum tomatoes, drained and coarsely chopped",oz,produce
+383,heavy cream,fl oz,dairy
+384,minced fresh parsley,fl oz,other
+385,"Brussels sprouts, ends trimmed and yellow leaves removed",pound,other
+386,kosher salt,fl oz,spices
+387,freshly ground black pepper,fl oz,spices
+388,"clove garlic, crushed",,produce
+389,freshly grated Parmesan cheese,fl oz,dairy
+390,chicken wings,,meat
+391,oil for deep frying,,other
+392,dash ground black pepper,,spices
+393,dash garlic powder,,produce
+394,light corn syrup,fl oz,other
+395,almond extract,fl oz,other
+396,assorted food coloring,,other
+397,extra lean ground beef,pound,meat
+398,"small onion, diced",,produce
+399,"dash hot pepper sauce (such as Frank's RedHot®), or to taste",,spices
+400,skim milk,fl oz,dairy
+401,seasoned bread crumbs,fl oz,grains
+402,(9 inch) prepared graham cracker crust,,other
+403,pinch ground cloves,,other
+404,"frozen whipped topping, thawed",fl oz,other
+405,dry corn bread mix,package,grains
+406,creamed corn,oz,dairy
+407,elbow macaroni,package,other
+408,shredded sharp Cheddar cheese,package,dairy
+409,container small curd cottage cheese,,dairy
+410,MEATBALLS,,other
+411,fresh bread crumbs,fl oz,grains
+412,dried parsley,fl oz,other
+413,SAUCE,,condiments
+414,whole peeled tomatoes,oz,produce
+415,boneless pork ribs,pound,meat
+416,"eggplant, peeled and thinly sliced",,other
+417,Italian seasoned bread crumbs,fl oz,grains
+418,"spaghetti sauce, divided",fl oz,condiments
+419,"mozzarella cheese, shredded and divided",package,dairy
+420,"grated Parmesan cheese, divided",fl oz,dairy
+421,"boneless skinless chicken breasts, cut into 1/2-inch chunks",pound,meat
+422,"salt and pepper, or to taste",fl oz,spices
+423,curry powder,fl oz,other
+424,coconut milk,oz,dairy
+425,"stewed, diced tomatoes",oz,produce
+426,sugar,fl oz,baking
+427,"large bananas, mashed",,other
+428,red wine vinegar,fl oz,beverages
+429,chopped fresh basil,fl oz,other
+430,"fresh shrimp, peeled and deveined",pound,other
+431,skewers,,other
+432,"skinless, boneless chicken breasts",,meat
+433,"fresh mushrooms, sliced",pound,other
+434,cloves garlic,,produce
+435,"large Granny Smith apples, peeled and cored",,other
+436,refrigerated crescent roll dough,oz,other
+437,or bottle Mountain Dew ™,can,other
+438,"beef sirloin, cut into 2 inch strips",pound,meat
+439,cube beef bouillon,,meat
+440,"large green bell peppers, roughly chopped",,spices
+441,"stewed tomatoes, with liquid",oz,produce
+442,teriyaki basting sauce,fl oz,condiments
+443,Ranch-style salad dressing,fl oz,other
+444,"green onions, chopped",,produce
+445,"chopped fresh parsley, for garnish",fl oz,other
+446,dried parsley flakes,fl oz,other
+447,ground white pepper,fl oz,spices
+448,hot pepper sauce (optional),fl oz,spices
+449,dried minced garlic (optional),fl oz,produce
+450,sweetened condensed milk,fl oz,dairy
+451,key lime juice,fl oz,beverages
+452,grated lime zest,fl oz,other
+453,jar salsa,,other
+454,chili seasoning mix,fl oz,other
+455,light red kidney beans,oz,canned_goods
+456,dark red kidney beans,oz,canned_goods
+457,"roma (plum) tomatoes, chopped",,produce
+458,"sun-dried tomatoes, packed in oil",fl oz,produce
+459,cloves minced garlic,,produce
+460,"fresh basil, stems removed",fl oz,other
+461,French baguette,,other
+462,shredded mozzarella cheese,fl oz,dairy
+463,slices day-old bread,,grains
+464,raisins (optional),fl oz,other
+465,crushed buttery round cracker crumbs,fl oz,dairy
+466,"butter, cut into pieces",fl oz,dairy
+467,chocolate cookie crumbs,fl oz,other
+468,frozen raspberries,package,other
+469,white chocolate chips,fl oz,other
+470,"sweet potato, cubed",fl oz,other
+471,Dijon mustard,fl oz,condiments
+472,finely chopped pecans,fl oz,other
+473,fillets salmon,,other
+474,"lemon, for garnish",,other
+475,envelope dry onion soup mix,,produce
+476,red wine,fl oz,beverages
+477,freshly ground black pepper to taste,,spices
+478,cold milk,fl oz,dairy
+479,"container frozen whipped topping, thawed",,other
+480,"bananas, sliced",,other
+481,vanilla wafers,package,baking
+482,"fresh peaches - peeled, pitted and sliced into thin wedges",,other
+483,"unsalted butter, chilled and cut into small pieces",fl oz,dairy
+484,boiling water,fl oz,beverages
+485,MIX TOGETHER:,,other
+486,large baking potatoes,,other
+487,slices bacon,,other
+488,pepper,fl oz,spices
+489,"green onions, sliced, divided",,produce
+490,"black beans, drained and rinsed",oz,canned_goods
+491,"green bell pepper, cut into 2 inch pieces",,spices
+492,"onion, cut into wedges",,produce
+493,"cloves garlic, peeled",,produce
+494,Thai chili sauce or hot sauce,fl oz,condiments
+495,bread crumbs,fl oz,grains
+496,"OREO Chocolate Sandwich Cookies, divided",package,other
+497,"PHILADELPHIA Cream Cheese, softened",package,dairy
+498,"BAKER'S Semi-Sweet Baking Chocolate, melted",package,other
+499,crushed red pepper,fl oz,spices
+500,sliced green onions,fl oz,produce
+501,"cooked shrimp, tails removed",oz,other
+502,light olive oil,fl oz,other
+503,"fresh parsley, chopped",fl oz,other
+504,"onion, diced",fl oz,produce
+505,"French style green beans, drained",oz,canned_goods
+506,crumbled buttery round crackers,fl oz,dairy
+507,"large potatoes, peeled and cubed",,other
+508,"carrots, chopped",,produce
+509,shredded zucchini,fl oz,other
+510,"boneless, skinless chicken breast halves",,meat
+511,lime juice,fl oz,beverages
+512,cubed whole wheat bread,fl oz,grains
+513,cubed white bread,fl oz,grains
+514,ground turkey sausage,pound,meat
+515,chopped celery,fl oz,produce
+516,dried sage,fl oz,other
+517,"Golden Delicious apple, cored and chopped",,other
+518,"cooked turkey liver, finely chopped",,meat
+519,turkey stock,fl oz,meat
+520,tomato juice,can,produce
+521,"kidney beans, drained and rinsed",oz,canned_goods
+522,"pinto beans, drained and rinsed",oz,canned_goods
+523,"(3 pound) whole chicken, giblets removed",,meat
+524,"onion powder, or to taste",fl oz,produce
+525,"margarine, divided",fl oz,other
+526,"stalk celery, leaves removed",,produce
+527,"frozen chopped spinach, thawed and drained",package,other
+528,"artichoke hearts, drained and chopped",oz,other
+529,container Alfredo-style pasta sauce,,grains
+530,crushed buttery round crackers,fl oz,dairy
+531,steak sauce,fl oz,condiments
+532,bag coleslaw mix,,other
+533,creamy salad dressing (such as Miracle Whip™),fl oz,dairy
+534,warm milk,fl oz,dairy
+535,Italian sausage,pound,other
+536,Italian-style stewed tomatoes,oz,produce
+537,"great Northern beans, undrained",oz,canned_goods
+538,"small zucchini, cubed",,other
+539,"spinach - packed, rinsed and torn",fl oz,other
+540,crunchy peanut butter,fl oz,dairy
+541,"skinless, boneless chicken breast halves - pounded to 1/2 inch thickness",,meat
+542,"slices bacon, cut in half",,other
+543,dried onion flakes,fl oz,produce
+544,sliced fresh mushrooms,fl oz,other
+545,shredded Colby-Monterey Jack cheese,fl oz,dairy
+546,"skinless, boneless chicken breast halves - pounded thin",,meat
+547,peeled and cubed butternut squash,fl oz,dairy
+548,cubes chicken bouillon,,meat
+549,dried marjoram,fl oz,other
+550,"small onions, cut into 2 inch pieces",,produce
+551,"red bell peppers, cut into 2 inch pieces",,spices
+552,vinegar,fl oz,other
+553,ground allspice,fl oz,other
+554,"cubes beef bouillon, crumbled",,meat
+555,"carrots, cut into 1 inch pieces",,produce
+556,"stalks celery, cut into 1 inch pieces",,produce
+557,"pork chops, trimmed",,meat
+558,salt (optional),fl oz,spices
+559,pumpkin,oz,other
+560,EAGLE BRAND® Sweetened Condensed Milk,oz,dairy
+561,large eggs,,other
+562,(9 inch) unbaked pie crust,,other
+563,uncooked long-grain rice,fl oz,grains
+564,yogurt,fl oz,dairy
+565,minced fresh ginger,fl oz,other
+566,"boneless skinless chicken breasts, cut into bite-size pieces",,meat
+567,long skewers,,other
+568,"jalapeno pepper, finely chopped",,spices
+569,"large head cauliflower, separated into florets",,other
+570,linguine pasta,oz,grains
+571,"boneless, skinless chicken breast halves, sliced into thin strips",,meat
+572,Cajun seasoning,fl oz,other
+573,"green bell pepper, chopped",,spices
+574,"red bell pepper, chopped",,spices
+575,"green onion, minced",,produce
+576,lemon pepper,fl oz,spices
+577,sesame seeds,fl oz,other
+578,distilled white vinegar,fl oz,other
+579,"fresh spinach - rinsed, dried and torn into bite-size pieces",oz,other
+580,"strawberries - cleaned, hulled and sliced",fl oz,other
+581,green bell peppers,,spices
+582,"whole peeled tomatoes, chopped",oz,produce
+583,uncooked rice,fl oz,grains
+584,condensed tomato soup,oz,produce
+585,water as needed,,beverages
+586,grated Romano cheese,fl oz,dairy
+587,"clove garlic, peeled and minced",,produce
+588,"butter or margarine, melted",fl oz,dairy
+589,graham cracker crumbs,fl oz,other
+590,chopped cooked chicken breast,pound,meat
+591,egg noodles,fl oz,other
+592,yellow cornmeal,fl oz,other
+593,dry lasagna noodles,,other
+594,part-skim ricotta cheese,fl oz,dairy
+595,frozen chopped broccoli,package,other
+596,"(1 pound) loaf processed cheese food, cubed",,dairy
+597,pinch garlic pepper,,produce
+598,seasoned salt,fl oz,spices
+599,thinly sliced onion,fl oz,produce
+600,shredded carrots,fl oz,produce
+601,flaked coconut,fl oz,other
+602,crushed pineapple with juice,oz,beverages
+603,strong brewed coffee,fl oz,other
+604,"large tomato, chopped",,produce
+605,bunch chopped green onions,,produce
+606,"small head iceberg lettuce, shredded",,produce
+607,"sliced black olives, drained",oz,other
+608,grated fresh ginger root,fl oz,other
+609,"clove garlic, crushed or to taste",,produce
+610,mahi mahi fillets,,other
+611,"chicken broth, divided",fl oz,meat
+612,"olive oil, divided",fl oz,other
+613,"portobello mushrooms, thinly sliced",pound,other
+614,"white mushrooms, thinly sliced",pound,other
+615,"shallots, diced",,other
+616,Arborio rice,fl oz,grains
+617,sea salt to taste,,spices
+618,finely chopped chives,fl oz,other
+619,(1 pound) sweet potato,,other
+620,"cooked, boneless chicken breast halves, shredded",,meat
+621,quick cooking long grain and wild rice with seasoning packet,package,grains
+622,"apples - peeled, cored and chopped",,other
+623,"skinless, boneless chicken breast meat - cut into chunks",pound,meat
+624,mild taco seasoning mix,package,other
+625,"bunch green onions, chopped, divided",,produce
+626,"Cheddar cheese, shredded, divided",fl oz,dairy
+627,sliced black olives,oz,other
+628,half-and-half,fl oz,other
+629,"spinach, drained",oz,other
+630,"canned kidney beans, drained",fl oz,canned_goods
+631,mashed cooked sweet potatoes,fl oz,other
+632,"(10 inch) flour tortillas, warmed",,grains
+633,fluid ounces warm water (110 degrees F/45 degrees C),,beverages
+634,anchovy paste (optional),fl oz,other
+635,dried red pepper flakes,fl oz,spices
+636,bulk mild Italian sausage,pound,other
+637,"slices bacon, cut into 1/2 inch pieces",,other
+638,"large onion, diced",,produce
+639,"potatoes, thinly sliced",,other
+640,"bunch fresh spinach, tough stems removed",,other
+641,bacon,pound,other
+642,little smokie sausages,package,other
+643,"brown sugar, or to taste",fl oz,baking
+644,"skinless, boneless chicken breast meat - cubed",pound,meat
+645,(6 inch) flour tortillas,,grains
+646,"tomato, diced",,produce
+647,shredded lettuce,fl oz,produce
+648,shredded Monterey Jack cheese,fl oz,dairy
+649,plain yogurt,fl oz,dairy
+650,"jalapeno pepper, minced",,spices
+651,minced capers,fl oz,other
+652,dried dill weed,fl oz,other
+653,oil for frying,fl oz,other
+654,"cod fillets, cut into 2 to 3 ounce portions",pound,other
+655,"medium head cabbage, finely shredded",,other
+656,light brown sugar,fl oz,baking
+657,onion salt,fl oz,produce
+658,(5 pound) rump roast,,other
+659,"bottle buffalo wing sauce, divided",,condiments
+660,dry ranch salad dressing mix,package,other
+661,"hoagie rolls, split lengthwise",,other
+662,"sun-dried tomatoes, chopped",fl oz,produce
+663,dry fettuccini pasta,oz,grains
+664,frozen hash brown potatoes,package,other
+665,"cooked, diced ham",oz,other
+666,condensed cream of potato soup,oz,dairy
+667,"bunch fresh asparagus, trimmed",,other
+668,beef chuck roast,pound,meat
+669,"green onions, sliced (white parts only)",,produce
+670,condensed beef broth,oz,meat
+671,"sliced mushrooms, drained",oz,other
+672,prepared Dijon-style mustard,fl oz,condiments
+673,"medium raw shrimp, shelled, deveined, with tails attached",pound,other
+674,oil,fl oz,other
+675,chunky salsa,fl oz,other
+676,shredded Muenster cheese,fl oz,dairy
+677,"onions, chopped",,produce
+678,red wine (optional),fl oz,beverages
+679,green beans,oz,canned_goods
+680,"baby spinach, rinsed",fl oz,other
+681,"zucchinis, quartered and sliced",,other
+682,chopped fresh oregano,fl oz,spices
+683,seashell pasta,fl oz,grains
+684,grated Parmesan cheese for topping,fl oz,dairy
+685,"lemons, juiced",,beverages
+686,chocolate cake mix,package,other
+687,container prepared chocolate frosting,,other
+688,bar chocolate flavored confectioners coating,,other
+689,slices cooked ham,,other
+690,bunch kale,,other
